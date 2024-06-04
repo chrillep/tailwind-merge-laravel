@@ -14,7 +14,7 @@
 
 A Laravel / PHP port of [tailwind-merge](https://github.com/dcastil/tailwind-merge) by [dcastil](https://github.com/dcastil).
 
-Supports Tailwind v3.0 up to v3.3.
+Supports Tailwind v3.0 up to v3.4.
 
 If you find this package helpful, please consider sponsoring the maintainer:
 - Sandro Gehri: **[github.com/sponsors/gehrisandro](https://github.com/sponsors/gehrisandro)**
@@ -37,7 +37,7 @@ If you find this package helpful, please consider sponsoring the maintainer:
 First, install `TailwindMerge for Laravel` via the [Composer](https://getcomposer.org/) package manager:
 
 ```bash
-composer require gehrisandro/tailwind-merge-laravel
+composer require chrillep/tailwind-merge-laravel
 ```
 
 Optionally, publish the configuration file:
